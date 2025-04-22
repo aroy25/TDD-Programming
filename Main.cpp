@@ -1,9 +1,9 @@
 #include <iostream>
 #include <assert.h>
-using namespace std;
 
+using namespace std;
 int main()
 {
-    cout << "all tests pass" << endl;
+    cout << "all test pass" << endl;
     return 0;
 }
