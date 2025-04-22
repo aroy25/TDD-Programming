@@ -1,5 +1,6 @@
 #include <iostream>
 #include <assert.h>
+#include "point.h"
 
 using namespace std;
 int main()
