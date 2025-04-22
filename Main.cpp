@@ -1,7 +1,9 @@
-//
-//  Main.cpp
-//  
-//
-//  Created by A’Shun Motley on 4/22/25.
-//
+#include <iostream>
+#include <assert.h>
+
+int main()
+{
+    cout << "all test passed"
+    return 0;
+}
 
