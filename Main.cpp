@@ -1,9 +1,10 @@
 #include <iostream>
 #include <assert.h>
 
+using namespace std;
 int main()
 {
-    cout << "all test passed"
+    cout << "all test pass" << endl;
     return 0;
 
 }
@@ -30,4 +31,3 @@ void tests(){
     assert(p6.toString() == "X: 5.0, Y: -14.0");
 
 }
-
