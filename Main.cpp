@@ -2,15 +2,14 @@
 #include <assert.h>
 #include "point.h"
 
+void tests();
+
 using namespace std;
 int main()
 {
-    point newPoint(1.5, 2.5);
-    
-    newPoint.toString(1.5, 2.5);
+    tests();
     cout << "all test pass" << endl;
     return 0;
-
 }
 
 void tests(){
